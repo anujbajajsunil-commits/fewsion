@@ -1,0 +1,6 @@
+{
+  "name": "Influencer Marketing SaaS Platform",
+  "description": "An enterprise-grade Influencer Marketing SaaS Platform featuring discovery, campaign management, role dashboards, dynamic analytics, messaging, and Google Gemini AI influencer matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
